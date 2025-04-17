@@ -1,8 +1,5 @@
-class Car:
-    def __init__(self,parameter1,parameter2):
-        self.property1=parameter1
-        self.property2=parameter2
-    def drive(self):
-        x= self.property1+self.property2
-        print(f"Speed is {x}")
+import oop_exercises.travel_planner as tp
+first_travel=tp.Travel("France","December","Business")
+first_travel.trip_infos()
+first_travel.calc_cost(600)
 

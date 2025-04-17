@@ -1,0 +1,2 @@
+#OOP with python
+I wanted to learn and improve my python skills , by learning OOP(Object Oriented Programming). All went well, thanks to the great youtube channel **Code with Josh**. Am glad I could learn that much from him.
